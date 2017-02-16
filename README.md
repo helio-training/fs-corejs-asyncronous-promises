@@ -2,6 +2,8 @@
 
 > Controlling parallelism with promises
 
+[![Build Status](https://travis-ci.org/helio-training/fs-corejs-asyncronous-promises.svg?branch=solutions)](https://travis-ci.org/helio-training/fs-corejs-asyncronous-promises)
+
 ## Introduction
 
 Callbacks were the first way we encountered to control parallel execution.  In that model, the function was notified with a function that contained at minimum an Error object as the first parameter with any additional information passed through as additional parameters.
